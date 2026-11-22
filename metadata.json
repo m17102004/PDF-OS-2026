@@ -1,0 +1,6 @@
+{
+  "name": "PDF OS - The Next-Gen Document Workspace",
+  "description": "High-precision AI document assistant for processing research papers and legal contracts with a robust dashboard, document comparison tool, and automated citation export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
